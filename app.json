@@ -19,8 +19,7 @@
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
       "value": ""
-    },
-    "CHAT_BASE_TOKEN": {
+    },"CHAT_BASE_TOKEN": {
       "description": "Your chat base token, as a string.",
       "value": ""
     },
